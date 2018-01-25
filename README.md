@@ -15,5 +15,5 @@
 ## 6.对抗学习
 ------
 ## 7.Demos
-* GRUV
+* [GRUV](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/GRUV)
 
