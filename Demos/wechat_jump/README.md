@@ -49,20 +49,3 @@ adb shell input swipe x y x y time(ms)
 5. 如果有找不到 `./autojump.png` 文件的错误？
     - 请查阅 [issue/194](https://github.com/wangshub/wechat_jump_game/issues/194)
 
-6. 如果你在苦苦寻找视频教程？
-    - 参考一位 B 站 UP 主的视频教程 [【微信跳一跳】教你如何不用双手还能霸占排行榜第一名](https://www.bilibili.com/video/av17796840/?redirectFrom=h5)
-
-## 更新日志
-
-- 详见 [changelog](https://github.com/wangshub/wechat_jump_game/blob/master/changelog.md)
-
-## 开发者列表
-
-- 详见 [contributors](https://github.com/wangshub/wechat_jump_game/graphs/contributors)
-
-## QQ 交流
-
-- 314659953 (1000人 已满)
-- 176740763 (500人 已满)
-- 89213434 (2000人 已满)
-- 64389940 (2000人)
