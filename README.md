@@ -17,4 +17,4 @@
 ## 7.Demos
 * [GRUV](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/GRUV)
 * [wechat_jump](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/wechat_jump)
-
+* [Neural-Style](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/Neural-Style)
