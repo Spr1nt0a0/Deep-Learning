@@ -1,4 +1,4 @@
-# neural-style
+# Neural-Style
 
 An implementation of [neural style][paper] in TensorFlow.
 
