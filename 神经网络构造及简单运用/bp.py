@@ -4,10 +4,8 @@ import math
 import pandas as pd
 import matplotlib.pyplot as plt
 import sys
-'''
-@author: shi
-'''
 
+#无数据填充
 test_features, test_targets =[]
 train_features, train_targets =[]
 val_features, val_targets = []
