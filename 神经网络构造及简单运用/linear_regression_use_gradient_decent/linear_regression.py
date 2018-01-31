@@ -1,4 +1,3 @@
-__author__ = 'DivinerShi'
 import numpy as np
 import pylab
 
