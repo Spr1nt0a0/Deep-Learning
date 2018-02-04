@@ -1,12 +1,5 @@
 # -*- coding:utf-8 -*-
-"""
-Minimal character-level Vanilla RNN model.
-原作者：Andrej Karpathy (@karpathy)
-"""
 
-## add comments by weixsong
-## reference page [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-## 中文注释：DivinerShi
 ## 三层神经网络.
 ## 输入层: one hot vector, dim: vocab * 1
 ## 隐藏层: LSTM, hidden vector: hidden_size * 1
