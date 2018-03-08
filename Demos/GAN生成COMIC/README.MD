@@ -1,6 +1,6 @@
 ## 环境准备
 
--需要通过`pip install -r requirements.txt` 安装其它依赖
+- 需要通过`pip install -r requirements.txt` 安装其它依赖
 
 ## 用法
 如果想要使用visdom可视化，请先运行`python2 -m visdom.server`启动visdom服务
@@ -59,6 +59,5 @@ python main.py generate --nogpu --visdom=False \
     gen_std = 1 #噪声的方差
    
 ```
-生成的部分图片：
-![imgs](https://dn-cyfall.qbox.me/del/gan-results2.png)
+
 
