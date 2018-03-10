@@ -24,6 +24,7 @@
 * [wechat_jump](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/wechat_jump)
 * [Neural-Style](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/Neural-Style)
 * [GAN生成COMIC](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/GAN%E7%94%9F%E6%88%90COMIC)
+* [write poem](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/write%20poem)
 ## 8.框架学习
 * TensorFlow
 * Pytorch
