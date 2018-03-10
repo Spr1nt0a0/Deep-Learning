@@ -6,7 +6,7 @@ pip install -r requirements.txt
 ```
 - 启动visodm
 ```Bash
- python -m visdom.server
+python -m visdom.server
 ```
 
 ## 训练
