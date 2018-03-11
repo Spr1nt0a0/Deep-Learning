@@ -5,7 +5,7 @@
 - 安装第三方依赖
 
 ```Python
-pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
 - 启动visodm
 ```Bash
