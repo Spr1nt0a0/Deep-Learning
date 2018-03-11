@@ -1,10 +1,5 @@
-这是电子工业出版社的《深度学习框架PyTorch：入门与实践》第十章的配套代码，利用PyTorch实现了图像描述Image Caption。
 
-## 1 下载数据
-
-本次实验的数据来自于[AI Challenger图像描述](https://challenger.ai/competition/caption/)。 请下载对应的训练数据。如果你只是想测试看看效果，可以跳过这一步。
-
-## 2 环境配置
+##  环境配置
 
 - 安装[PyTorch](http://pytorch.org)
 - 安装第三方依赖
@@ -17,8 +12,8 @@ pip install -r requirements.txt
  python -m visdom.server
 ```
 
-## 3 数据预处理
-### 3.1 标记文件的预处理（对人工描述的预处理）
+##  数据预处理
+###  标记文件的预处理（对人工描述的预处理）
 可以跳过这一步，直接下载预处理好的[caption.pth](http://pytorch-1252820389.cosbj.myqcloud.com/caption.pth)
 
 当然，你也可以自行进行处理，运行 
@@ -27,7 +22,7 @@ python data_preprocess.py process --annotation-file=/data/annotation.json --max-
 ```
 最后会生成`caption.pth`
 
-### 3.2 提取图片特征
+###  提取图片特征
 ```Bash
 python feature_extract.py
 ```
@@ -37,7 +32,7 @@ python feature_extract.py
 这里使用的是resnet50，提取图片特征。提取完成之后，会在当前文件夹生成`results.pth`, `results.pth`保存着一个tensor数组，形如（21w X 2048），保存着21w张图片的特征信息。
 
 
-## 4 训练
+##  训练
 训练的命令如下：
 
 ```Bash
@@ -80,28 +75,4 @@ python main.py train
 
 ```
 
-### 测试&Demo
-下载[预训练好的模型](http://pytorch-1252820389.file.myqcloud.com/caption_0914_1947), 或者使用你自己训练好的模型
-
-参照 [demo.ipynb](demo.ipynb),查看效果。
-
-
-部分效果图
-
-![img](img/caption-results.png)
-
-### 兼容性测试
-
-train 
-- [x] GPU  
-- [x] CPU  
-- [x] Python2
-- [x] Python3
-
-tested: 
-
-- [x] GPU
-- [x] CPU
-- [x] Python2
-- [x] Python3
 
