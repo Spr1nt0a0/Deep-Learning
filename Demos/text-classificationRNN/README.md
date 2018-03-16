@@ -4,7 +4,7 @@
 
 ## 环境
 
-- Python 2/3 (感谢[howie.hu](https://github.com/howie6879)调试Python2环境)
+- Python 2/3 
 - TensorFlow 1.3以上
 - numpy
 - scikit-learn
@@ -21,8 +21,6 @@
 ```
 体育, 财经, 房产, 家居, 教育, 科技, 时尚, 时政, 游戏, 娱乐
 ```
-
-这个子集可以在此下载：链接: https://pan.baidu.com/s/1hugrfRu 密码: qfud
 
 数据集划分如下：
 
