@@ -13,6 +13,7 @@
 ------
 ## 3.自然语言处理
 * [文本分类byCNN](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/text-classificationCNN)
+* [文本分类byRNN](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/text-classificationRNN)
 ------
 ## 4.数据挖掘
 ------
