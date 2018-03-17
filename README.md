@@ -18,6 +18,7 @@
 ## 4.数据挖掘
 ------
 ## 5.增强学习
+* [FlappyBird](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/FlappyBird)
 ------
 ## 6.对抗学习
 ------
