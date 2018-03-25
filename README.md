@@ -29,6 +29,7 @@
 * [GAN生成COMIC](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/GAN%E7%94%9F%E6%88%90COMIC)
 * [write poem](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/write%20poem)
 * [Image Caption](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/Image%20Caption)
+* [井字棋](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/%E4%BA%95%E5%AD%97%E6%A3%8B)
 ## 8.框架学习
 * TensorFlow
 * Pytorch
