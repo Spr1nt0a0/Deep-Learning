@@ -1,10 +1,3 @@
-# Working with Bag of Words
-#---------------------------------------
-#
-# In this example, we will download and preprocess the ham/spam
-#  text data.  We will then use a one-hot-encoding to make a
-#  bag of words set of features to use in logistic regression.
-#
 # We will use these one-hot-vectors for logistic regression to
 #  predict if a text is spam or ham.
 
