@@ -22,6 +22,7 @@
 * [FlappyBird(deep_q_learning)](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/FlappyBird)
 ------
 ## 6.对抗学习
+* [GAN_on_MNIST by tensorflow](https://github.com/Spr1nt0a0/Deep-Learning/blob/master/Demos/GAN_demo/GAN_on_MNIST.py)
 ------
 ## 7.Demos
 * [GRUV](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/GRUV)
