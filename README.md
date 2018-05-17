@@ -35,6 +35,7 @@
 * [deep dream](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/deep%20dream)
 * [简单网易云音乐评论分析](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/%E7%AE%80%E5%8D%95%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90)
 * [自动跟踪](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/%E5%AF%BC%E5%BC%B9%E8%87%AA%E5%8A%A8%E8%BF%BD%E8%B8%AA)
+* [High-resolution image generation]()
 ## 8.框架学习
 * TensorFlow
 * Pytorch
