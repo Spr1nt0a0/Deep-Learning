@@ -18,12 +18,10 @@ def get_news1():
 def send_news():
         try:
                 my_friend = bot.friends().search(u'别回头看我。')[0]
-                #你朋友的微信名称，不是备注，也不是微信帐号。
                 my_friend.send(get_news1()[0])
                 my_friend.send(get_news1()[1][5:])
                 my_friend.send(u"来自爸爸的心灵鸡汤！")
                 t = Timer(86400, send_news)
-                #每86400秒（1天），发送1次，不用linux的定时任务是因为每次登陆都需要扫描二维码登陆，很麻烦的一件事，就让他一直挂着吧
                 t.start()
         except:
                 my_friend = bot.friends().search('Spr1nt')[0]
