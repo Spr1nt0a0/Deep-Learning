@@ -21,6 +21,7 @@
 ## 5.增强学习
 * [FlappyBird(deep_q_learning)](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/FlappyBird)
 * [TicTacToe](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/demo1-TicTacToe)
+* [TenArmedTestbed](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/demo2-TenArmedTestbed)
 ------
 ## 6.对抗学习
 * [GAN_on_MNIST by tensorflow](https://github.com/Spr1nt0a0/Deep-Learning/blob/master/Demos/GAN_demo/GAN_on_MNIST.py)
