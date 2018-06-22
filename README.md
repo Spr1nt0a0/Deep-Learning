@@ -23,6 +23,7 @@
 * [TicTacToe](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/demo1-TicTacToe)
 * [TenArmedTestbed](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/demo2-TenArmedTestbed)
 * [GridWorld](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/demo3-GridWorld)
+* [Deep_Q_Network](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/demo4-Deep_Q_Network)
 ------
 ## 6.对抗学习
 * [GAN_on_MNIST by tensorflow](https://github.com/Spr1nt0a0/Deep-Learning/blob/master/Demos/GAN_demo/GAN_on_MNIST.py)
