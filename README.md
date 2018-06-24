@@ -27,6 +27,7 @@
 ------
 ## 6.对抗学习
 * [GAN_on_MNIST by tensorflow](https://github.com/Spr1nt0a0/Deep-Learning/blob/master/Demos/GAN_demo/GAN_on_MNIST.py)
+* [StarGAN](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/StarGAN)
 ------
 ## 7.Demos
 * [GRUV](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/GRUV)
