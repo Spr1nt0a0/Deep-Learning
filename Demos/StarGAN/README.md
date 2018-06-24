@@ -6,7 +6,7 @@
 * Python 3.6
 
 ## Usage
-### Downloading the dataset
+### 下载数据集
 ```python
 > python download.py celebA
 ```
@@ -25,35 +25,16 @@
        ├── list_attr_celeba.txt (For attribute information) 
 ```
 
-### Train
+### 训练
 * python main.py --phase train
 
-### Test
+### 测试
 * python main.py --phase test 
-* The celebA test image and the image you wanted run simultaneously
+* 同时运行 celebA 测试图像和您想要的图像
 
-### Pretrained model
+
+### 预训练模型
 * Download [checkpoint for 128x128](https://drive.google.com/open?id=1ezwtU1O_rxgNXgJaHcAynVX8KjMt0Ua-)
 
-## Summary
-![overview](./assests/overview.PNG)
 
-## Results (128x128, wgan-gp)
-### Women
-![women](./assests/women.png)
 
-### Men
-![men](./assests/men.png)
-
-## Related works
-* [CycleGAN-Tensorflow](https://github.com/taki0112/CycleGAN-Tensorflow)
-* [DiscoGAN-Tensorflow](https://github.com/taki0112/DiscoGAN-Tensorflow)
-* [UNIT-Tensorflow](https://github.com/taki0112/UNIT-Tensorflow)
-* [MUNIT-Tensorflow](https://github.com/taki0112/MUNIT-Tensorflow)
-
-## Reference
-* [StarGAN paper](https://arxiv.org/abs/1711.09020)
-* [Author pytorch code](https://github.com/yunjey/StarGAN)
-
-## Author
-Junho Kim
