@@ -42,6 +42,7 @@
 * [自动跟踪](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/%E5%AF%BC%E5%BC%B9%E8%87%AA%E5%8A%A8%E8%BF%BD%E8%B8%AA)
 * [High-resolution image generation](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/High-resolution%20image%20generation)
 * [520面向对象编程](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/520%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B)
+* [目标检测 by imageAI](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8BimageAI)
 ## 8.框架学习
 * TensorFlow
 * Pytorch
