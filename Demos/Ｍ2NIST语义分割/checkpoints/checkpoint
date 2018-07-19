@@ -1,0 +1,2 @@
+model_checkpoint_path: "mnist-fcn.ckpt-200"
+all_model_checkpoint_paths: "mnist-fcn.ckpt-200"
