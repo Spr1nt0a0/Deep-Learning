@@ -47,6 +47,7 @@
 * [M2NIST语义分割](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/%EF%BC%AD2NIST%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2)
 * [Image-OutPainting](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/Image-OutPainting)
 * [手写汉字识别flask版本](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/%E6%89%8B%E5%86%99%E6%B1%89%E5%AD%97%E8%AF%86%E5%88%ABflask%E7%89%88%E6%9C%AC)
+* [图片增强](https://github.com/Spr1nt0a0/Deep-Learning/tree/master/Demos/%E5%9B%BE%E7%89%87%E5%A2%9E%E5%BC%BA)
 ## 8.框架学习
 * TensorFlow
 * Pytorch
